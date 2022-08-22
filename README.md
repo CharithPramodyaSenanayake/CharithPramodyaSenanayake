@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%5010F7EA&center=true&lines=WELCOME+TO+MY+GITHUB😏;%20;HI%2CI+am+Charith+Pramodya+Senanayake)](https://git.io/typing-svg) 
 <br> 
 
-[![Rathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChariPramodya&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChariPramodya&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Rathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharithPramodyaSenanayake&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharithPramodyaSenanayake&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <p align="center"> <a href="ChariPramodya"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=ChariPramodya&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="ChariPramodya" /></a> </p>
