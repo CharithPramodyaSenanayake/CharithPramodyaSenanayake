@@ -1,9 +1,8 @@
 # Hi I'm Charith Pramodya Senanayake(RATHI😎)&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px">
-</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&font=&color=%5010F7EA&center=true&lines=WELCOME+TO+MY+GITHUB😏;%20;HI%2CI+am+Charith+Pramodya+Senanayake)](https://git.io/typing-svg) 
-
-<br> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=HI!+Welcome+To+My+Github;I'm+CHARITH+SENANAYAKE+(RATHI😋)&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 [![Rathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharithPramodyaSenanayake&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharithPramodyaSenanayake&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
