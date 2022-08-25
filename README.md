@@ -1,7 +1,7 @@
 # Hi I'm Charith Pramodya Senanayake(RATHI😎)&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=HI!+Welcome+To+My+Github;I'm+CHARITH+SENANAYAKE+(RATHI😋)&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=HI!+Welcome+To+My+Github;I'm+CHARITH+SENANAYAKE+(RATHI😋)&color=F33A6A&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 [![Rathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharithPramodyaSenanayake&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,6 +30,6 @@
 <a href="https://wa.me/94712448370?text=HI%20RATHI🤗" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?size=100&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
 </a>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%5010F7EA&center=true&lines=THANKS+FOR+Visitig+MY+GITHUB;%20;BYE✌)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F33A6A&center=true&lines=THANKS+FOR+Visitig+MY+GITHUB;%20;BYE✌)](https://git.io/typing-svg) 
 
 <br>
