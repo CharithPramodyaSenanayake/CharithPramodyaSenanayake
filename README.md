@@ -20,7 +20,7 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)</p>
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)</p> 
 
   ## Contact me <br>
  <a href="mailto:charipramodyasenanayake@gmail.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject20%here">
@@ -32,6 +32,6 @@
 
 ![Snake animation](https://github.com/CharithPramodyaSenanayake/CharithPramodyaSenanayake/blob/output/github-contribution-grid-snake.svg)
   
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F33A6A&center=true&lines=THANKS+FOR+Visitig+MY+GITHUB;%20;BYE✌)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F33A6A&center=true&lines=THANKS+FOR+Visitig+MY+GITHUB;%20;BYE✌)](https://charithpramodyasenanayake.github.io/) 
 
 <br>
