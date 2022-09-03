@@ -30,6 +30,8 @@
 <a href="https://wa.me/94712448370?text=HI%20RATHI🤗" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?size=100&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp">
 </a>
 
+![Snake animation](https://github.com/CharithPramodyaSenanayake/CharithPramodyaSenanayake/blob/output/github-contribution-grid-snake.svg)
+  
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F33A6A&center=true&lines=THANKS+FOR+Visitig+MY+GITHUB;%20;BYE✌)](https://git.io/typing-svg) 
 
 <br>
