@@ -28,10 +28,10 @@
 </a>
 
 [![Charith Pramodya Senanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharithPramodyaSenanayake&theme=cobalt)](https://charithpramodyasenanayake.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharithPramodyaSenanayake&theme=cobalt)](https://charithpramodyasenanayake.github.io/)
+[![Top Langs I know](https://github-readme-stats.vercel.app/api/top-langs/?username=CharithPramodyaSenanayake&theme=cobalt)](https://charithpramodyasenanayake.github.io/)
 <br>
 
-![Snake animation](https://github.com/CharithPramodyaSenanayake/CharithPramodyaSenanayake/blob/output/github-contribution-grid-snake.svg)
+![Rathi's Snake](https://github.com/CharithPramodyaSenanayake/CharithPramodyaSenanayake/blob/output/github-contribution-grid-snake.svg)
   
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=F33A6A&center=true&lines=THANKS+FOR+Visitig+MY+GITHUB;%20;BYE✌)](https://charithpramodyasenanayake.github.io/) 
 
