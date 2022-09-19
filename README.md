@@ -1,4 +1,4 @@
-# Hi I'm Charith Pramodya Senanayake(RATHI😎)&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px">
+# Hi I'm Charith Pramodya Senanayake(RATHI😎)&nbsp;<a href="Hey"><img src="Media/Hi.gif" width="48px">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=HI!+Welcome+To+My+Github;I'm+CHARITH+SENANAYAKE+(RATHI😋)&color=F33A6A&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
