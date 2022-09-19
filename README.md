@@ -18,7 +18,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)</p> 
 
-  ## Contact me <br>
+  ## Contact me <img src="Media/Handshake.gif" width="70px"><br>
  <a href="mailto:charipramodyasenanayake@gmail.com?subject=[%20FROM%20GITHUB%20]%20Enter%20your%20subject20%here">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
